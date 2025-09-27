@@ -1,0 +1,112 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>MITTRAPAK KLOMJAI — Resume</title>
+</head>
+<body>
+  <!-- Header / Name + Contact -->
+  <header>
+    <table>
+      <tr>
+        <td style="vertical-align: top;">
+          <img src="Image/Verg.gif" alt="Your Photo" width="200" height="200">
+        </td>
+        <td style="vertical-align: top; padding-left: 10px;">
+          <h1 id="name">MITTRAPAK KLOMJAI</h1>
+          <p id="headline">Full-Stack Developer</p>
+          <address>
+            <p>
+              Email: <a href="mailto:mittrapakd@example.com">johnvillain@gmail.com</a><br>
+              Phone: +1 (555) 555-5555<br>
+              Website: <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1">johnvillain.com</a>
+            </p>
+          </address>
+        </td>
+      </tr>
+    </table>
+    <hr>
+  </header>
+
+
+  <section id="summary">
+    <h2>Summary</h2>
+    <p>I am the storm that is approaching, Provoking black clouds in isolation.</p>
+  </section>
+
+
+
+
+  <section id="experience">
+    <h2>Experience</h2>
+
+
+    <article class="job">
+      <h3>Trainee — <small>CP-ALL Public Company Limited (7-ELEVEN)</small></h3>
+      <p><em>7-ELEVEN Marketplace Rangsit</em> · <time datetime="2025-03">Mar 2025</time> — <time datetime="2025-06">May 2025</time></p>
+      <ul>
+        <li>Organized and stock shelves.</li>
+        <li>Maintained clean workspace.</li>
+        <li>Good customer services.</li>
+      </ul>
+    </article>
+
+
+  </section>
+
+
+  <section id="education">
+    <h2>Education</h2>
+    <dl>
+      <dt><strong>Panyapiwat Institute of Management</strong></dt>
+        <dd>Bachelor of Engineering
+        <dd>Computer Engineering and Artificial Intelligence 
+    </dl>
+
+      
+
+  </section>
+
+  <!-- Skills -->
+  <section id="skills">
+    <h2>Skills</h2>
+
+    <p>
+      Technical: JavaScript, Python, Java, SQL<br>
+      Tools: Git, Netbeans, Visual Studio Code<br>
+      Others: Fast-Learner, Logical Thinking
+    </p>
+  </section>
+
+  <!-- Projects (optional) -->
+  <section id="projects">
+    <h2>Selected Projects</h2>
+    <article>
+      <h3>Simple Image Classification Model</h3>
+      <p>Basic Image Classification Model using Python, Tensorflow </a>.</p>
+    </article>
+  </section>
+
+  <!-- Certifications / Awards / Languages -->
+  <section id="extra">
+    <h2>Certifications &amp; Awards</h2>
+    <ul>
+      <li>Agoda Tech Camp Training — Agoda Team (2024)</li>
+    </ul>
+
+    <h2>Languages</h2>
+    <ul>
+      <li>English — Professional working proficiency</li>
+      <li>Thai — Native</li>
+    </ul>
+  </section>
+
+  <!-- Footer with optional references line -->
+  <footer>
+    <hr>
+    <p>References available upon request • Last updated: <time datetime="2025-09-27">Sep 27, 2025</time></p>
+  </footer>
+</body>
+</html>
